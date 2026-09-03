@@ -10,4 +10,4 @@ Building production-ready web apps and AI-powered SaaS products.
 
 **Stack:** Next.js · Node.js · PostgreSQL · Redis · TypeScript
 
-**Currently:** Freelancing · NHA Internship · Building SaaS
+**Currently:** Freelancing · Building SaaS
